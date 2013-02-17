@@ -1,0 +1,6 @@
+{
+  "name": "crashlog-js",
+  "version": "0.9.0",
+  "main": "./dist/crashlog.js",
+  "dependencies": {}
+}
